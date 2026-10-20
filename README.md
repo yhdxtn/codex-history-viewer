@@ -146,3 +146,7 @@ $env:QT_QPA_PLATFORM = "offscreen"
 ## 参与开发
 
 提交问题或改动时，请使用合成样本。不要上传真实会话导出、附件、`auth.json`、令牌、密码或其他个人数据。工具会读取本机聊天历史；公开仓库和 issue 中不应包含这些内容。
+
+## 许可证
+
+本项目使用 MIT License，详见 [LICENSE](LICENSE)。
